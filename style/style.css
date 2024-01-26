@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(191, 204, 200);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+    color: darkslategray;
+}
